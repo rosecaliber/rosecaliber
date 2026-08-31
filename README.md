@@ -8,7 +8,7 @@ $\color{blue}{\text{〝⠀⠀by⠀no⠀means⠀does⠀this⠀make⠀us⠀friends
 $\color{red}{\text{〝⠀⠀you⠀came⠀back !⠀⠀〞}}$
 </p>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/dae6e2af-500a-4cc5-9fc8-328299d371e1" width="680" height="445" />
+<img src="https://github.com/user-attachments/assets/71e9e70d-438e-490a-8f9c-3a62cabb9d28" width="498" height="391" />
 </p>
 <p align="center">
 whole page dedicated to my grumpy girlfriend the embodiment of weiss schnee
