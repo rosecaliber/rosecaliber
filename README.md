@@ -5,7 +5,7 @@
 $\color{blue}{\text{〝⠀⠀by⠀no⠀means⠀does⠀this⠀make⠀us⠀friends⠀.⠀⠀〞}}$
 </p>
 <p align="center">
-$\color{red}{\text{〝⠀⠀you⠀came⠀back !⠀⠀〞}}$
+$\color{Red}{\text{〝⠀⠀you⠀came⠀back !⠀⠀〞}}$
 </p>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/71e9e70d-438e-490a-8f9c-3a62cabb9d28" width="498" height="391" />
